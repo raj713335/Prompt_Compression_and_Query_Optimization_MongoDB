@@ -1,1 +1,1 @@
-# Prompt_Compression_and_Query_Optimization_MongoDB
+<h1 align="center">Prompt Compression and Query Optimization (MongoDB)</h1>
